@@ -18,3 +18,5 @@ BibTeX
     doi          = {10.5281/zenodo.3532199},
     url          = {https://doi.org/10.5281/zenodo.3532199}
     }
+
+Repository Citations (Paper a) https://github.com/ksj7924/Kang2019ApJRcode
