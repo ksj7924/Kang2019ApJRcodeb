@@ -4,6 +4,8 @@ Repository Citations (Paper b) https://doi.org/10.5281/zenodo.3532198 or https:/
 
 Cite as:
 
+Kang, S.-J., Li, E., Ou, W., et al. 2019b, arXiv e-prints, arXiv:1911.02570. https://arxiv.org/abs/1911.02570
+
 Kang, Shi-Ju. (2019, November 8). R code for Evaluating the classification of Fermi BCUs from the 4FGL Catalog Using Machine Learning (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3532199
 
 BibTeX
